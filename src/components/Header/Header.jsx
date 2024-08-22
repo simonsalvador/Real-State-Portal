@@ -24,6 +24,9 @@ const Header = () => {
           </h1>
         </div>
         <nav className="hidden md:flex space-x-4">
+          <a href="/" className="text-gray-600 hover:text-blue-600">
+            Home
+          </a>
           <a href="/buy" className="text-gray-600 hover:text-blue-600">
             Buy
           </a>
